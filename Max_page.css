@@ -1,0 +1,19 @@
+#up1{
+	height: 200px;
+	width: 100%;
+	background-color: red;
+}
+#cname{
+	height: 200px;
+	width:400px ;
+	background-color: rgb(60, 255, 0);
+	float: left;
+}
+#menue{
+	float: right;
+	list-style-type: none;
+	text-decoration: none;
+	
+	/* text-align: center; */
+
+}
